@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(16, 16, 143);
+}
+/* header( */
+
+header {
+    height: 40vh;
+}
+header i {
+    color: green;
+    width: 300px;
+    height: 300px;
+}
+
+/* main */
+
+main {
+    display: flex;
+    width: 80%;
+}
+img {
+    width: 300px;
+}
+.media {
+    display: flex;
+    flex-wrap: wrap;  
+}
+.album {
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(0, 0, 0);
+}
+.album h1,
+.album h2,
+.album h3 {
+    color:white;
+    width: 300px;
+}
