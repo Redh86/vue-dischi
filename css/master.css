@@ -9,12 +9,12 @@ body {
 /* header( */
 
 header {
-    height: 40vh;
+    width: 80%;
 }
 header i {
     color: green;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
 }
 
 /* main */
